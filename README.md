@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 I’m Johnson, a chinese univerysity student
 
 - 👋 Hi, I’m Johnson, a chinese univerysity student
@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 
 
 -->
+ -->
